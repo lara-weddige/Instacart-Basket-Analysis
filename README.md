@@ -1,9 +1,9 @@
 # Instacart-Basket-Analysis
-Analysis of Instacart customer purchasing habits to answer business questions and help create data-driven marketing strategies
+Analysis of Instacart customer purchasing habits to answer business questions and help create data-driven marketing strategies. 
 
 
 # Objective
-The objective of this analysis was to assist the marketing team in answering some key business questions to understand their customers and discover new data-driven strategies to increase sales and create loyal customers. 
+This analysis aimed to assist the marketing team in answering key business questions to understand their customers and discover new data-driven strategies to increase sales and create loyal customers. 
 
 
 # Key questions answered
@@ -23,7 +23,7 @@ Some of the key business questions posed by the marketing team were:
 3. customers
 4. departments
 
-Note: Publically available data from Instacart was used where possible, though customer and price datasets were supplemented by CareerFoundry for purposes of this analysis. 
+Note: Publically available data from Instacart was used where possible, though customer and price datasets were supplemented by CareerFoundry for the purposes of this analysis. 
 
 
 # Tools used
